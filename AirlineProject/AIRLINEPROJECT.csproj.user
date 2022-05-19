@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BookingHolidayPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CancelFlightTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FlightBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HotelBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Passanger Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Record_Holidays_packages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Record_New_Flight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Record_New_Hotels.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Passangers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Scheduled_Flights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Scheduled_Holiday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Scheduled_Hotels.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="DataSet2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="DataSet3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="DataSet4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="DataSet5.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="DataSet6.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="DataSet7.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="DataSet8.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="DataSet9.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
